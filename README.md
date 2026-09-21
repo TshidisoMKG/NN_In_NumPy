@@ -9,6 +9,6 @@ This neural network model is built in Python using the NumPy library to accurate
 * Only 1 Hidden layer is used in this model to pass inputs forward and propagate the gradient derivatives of a loss function backward.
 * ReLU activation function is applied to hidden layer outputs.
 * Dropout is used for regularization.
-* The loss function used is a basic Total Squared Error
+* The loss function used is a basic Mean Squared Error
 
 * The model is optimized by first adding the Softmax function to the output layer.
